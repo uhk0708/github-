@@ -2,8 +2,15 @@
 
 이미지 저장 후
 
-<img src = 'images/2023071701753_0.jpg'> </img>
-<img src = 'images/2023071701753_0.jpg' width = 30 hegiht = 50> </img>
+이미지 넣기
+<img src = 'images/이미지 명'> </img>
+
+
+이미지 크기 조절
+<img src = 'images/이미지 명' width = 숫자 hegiht = 숫자> </img>
+
+이미지 가운데 정렬
+<p align="center"><img src="image_src"></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhk0708)](https://github.com/uhk0708/github-readme-stats)
